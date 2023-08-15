@@ -1,2 +1,2 @@
 # todoapp
-Practice with JavaScript
+This project is created for practice JavaScript
